@@ -70,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 https://github.com/RahulRS15/store-rating-app.git
+![image](https://github.com/user-attachments/assets/195e5cc4-2fb1-48fd-827c-22e5a9d62d57)
+
+
